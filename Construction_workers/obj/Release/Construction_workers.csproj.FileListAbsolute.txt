@@ -1,0 +1,44 @@
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\bin\Release\Construction_workers.exe.config
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\bin\Release\Construction_workers.exe
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\bin\Release\Construction_workers.pdb
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.frmListView.resources
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.frmlogin.resources
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.frmMain.resources
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.frmuserEdit.resources
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.Properties.Resources.resources
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.frmPersonList.resources
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.csproj.GenerateResource.Cache
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.exe
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.pdb
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.csprojResolveAssemblyReference.cache
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.frmPersonEdit.resources
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.Employees.frmEmployeesAdd.resources
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.Employees.frmEmployeesEdit.resources
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.Employees.frmEmployeesList.resources
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.frmPerson.resources
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.Architects.frmArchitectsList.resources
+C:\Users\khaleghi\documents\visual studio 2012\Projects\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.Architects.frmArchitectsAdd.resources
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\bin\Release\Construction_workers.exe.config
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\bin\Release\Construction_workers.exe
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\bin\Release\Construction_workers.pdb
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\bin\Release\System.Data.SqlServerCe.Entity.dll
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.csprojAssemblyReference.cache
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.frmListView.resources
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.frmlogin.resources
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.frmMain.resources
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.frmuserEdit.resources
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.Properties.Resources.resources
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.Architects.frmArchitectsAdd.resources
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.Architects.frmArchitectsList.resources
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.Employees.frmEmployeesAdd.resources
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.Employees.frmEmployeesEdit.resources
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.Employees.frmEmployeesList.resources
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.frmPerson.resources
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.frmPersonEdit.resources
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.UI.frmPersonList.resources
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.csproj.GenerateResource.cache
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.csproj.CoreCompileInputs.cache
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.csproj.CopyComplete
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.exe
+C:\Users\YAS\Desktop\Construction_workers\Construction_workers\obj\Release\Construction_workers.pdb

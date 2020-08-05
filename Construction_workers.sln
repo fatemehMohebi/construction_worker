@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construction_workers", "Construction_workers\Construction_workers.csproj", "{AFD86684-BC3B-41F5-A2E9-29E2C9F8A9DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD86684-BC3B-41F5-A2E9-29E2C9F8A9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD86684-BC3B-41F5-A2E9-29E2C9F8A9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD86684-BC3B-41F5-A2E9-29E2C9F8A9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD86684-BC3B-41F5-A2E9-29E2C9F8A9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
